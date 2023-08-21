@@ -1,0 +1,8 @@
+mode: set
+mocking/packageA/packageA.go:15.31,17.2 1 1
+mocking/packageA/packageA.go:19.39,21.2 1 1
+mocking/packageB/packageB.go:18.31,20.2 1 1
+mocking/packageB/packageB.go:22.37,25.2 1 1
+mocking/packageB/packageB.go:27.38,30.2 1 1
+mocking/packageB/packageB.go:32.38,35.2 2 0
+mocking/packageC/packageC.go:12.37,15.2 2 0
