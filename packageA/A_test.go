@@ -5,7 +5,7 @@ import (
 	"testing"
 )
 
-// Mock struct sor mocking C
+// Mock struct for mocking C
 // Create a mock struct which implements methods as packageC
 type mock struct{}
 
